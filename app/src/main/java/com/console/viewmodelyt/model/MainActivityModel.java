@@ -1,0 +1,13 @@
+package com.console.viewmodelyt.model;
+
+public class MainActivityModel {
+    private String add;
+
+    public String getAdd() {
+        return add;
+    }
+
+    public void setAdd(String add) {
+        this.add = add;
+    }
+}
